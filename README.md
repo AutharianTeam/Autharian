@@ -1,2 +1,2 @@
 # Autharian
-A cryptocurrency built using python with proof of capacity
+A cryptocurrency built using python with proof of spacetime

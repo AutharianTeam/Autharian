@@ -7,9 +7,9 @@
 <p align="center">
     A proof of work cryptocurrency written in python!
     <br />
-    <a href="https://github.com/ZirCoinDevs/ZirCoin">Source Code</a>
+    <a href="https://github.com/AutharianTeam/Autharian">Source Code</a>
     ·
-    <a href="https://github.com/ZirCoinDevs/ZirCoin/issues">Report a Bug</a>
+    <a href="https://github.com/AutharianTeam/Autharian/issues">Report a Bug</a>
 </p>
 
 <ol>

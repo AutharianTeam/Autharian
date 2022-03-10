@@ -20,12 +20,11 @@
 
 <h2>About Autharian</h2>
 
-
 Autharian is a cryptocurrency built using the proof of space-time consensus algorithm. This allows for mining of the currency with low energy costs. Our goal is to create a cryptocurrency which uses a very low amount of energy while maintaining significant speed. We also plan to add smart contracts and NFTs.
 
 <h2>Installation and Usage</h2>
 
-
 <h3>Prerequisites</h3>
+
 Python 3.7+
 

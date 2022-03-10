@@ -12,3 +12,12 @@
     <a href="https://github.com/ZirCoinDevs/ZirCoin/issues">Report a Bug</a>
 </p>
 
+<p align="center">
+  <ol>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Installation</a></li>
+    <li><a href="#">Usage</a></li>
+    <li><a href="#">Contributing</a></li>
+    <li><a href="#">Contact</a></li>
+  </ol>
+</p>

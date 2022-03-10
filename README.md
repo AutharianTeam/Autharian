@@ -26,6 +26,6 @@ Autharian is a cryptocurrency built using the proof of space-time consensus algo
 <h2>Installation and Usage</h2>
 
 
-<h4>Prerequisites</h4>
+<h3>Prerequisites</h3>
 Python 3.7+
 

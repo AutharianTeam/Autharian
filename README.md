@@ -13,10 +13,10 @@
 </p>
 
 <ol>
-  <li align="center"><a href="#">About</a></li>
-  <li align="center"><a href="#">Installation</a></li>
-  <li align="center"><a href="#">Usage</a></li>
-  <li align="center"><a href="#">Contributing</a></li>
-  <li align="center"><a href="#">Contact</a></li>
+  <li align="center"><a align="center" href="#">About</a></li>
+  <li align="center"><a align="center" href="#">Installation</a></li>
+  <li align="center"><a align="center" href="#">Usage</a></li>
+  <li align="center"><a align="center" href="#">Contributing</a></li>
+  <li align="center"><a align="center" href="#">Contact</a></li>
 </ol>
 

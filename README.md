@@ -24,7 +24,37 @@ Autharian is a cryptocurrency built using the proof of space-time consensus algo
 
 <h2>Installation and Usage</h2>
 
+Here is how you can start using Autharian!
+
 <h3>Prerequisites</h3>
 
 Python 3.7+
+
+<h3>Installing</h3>
+
+- Clone the Repository
+
+```sh
+git clone https://github.com/AutharianTeam/Autharian.git
+```
+
+- Use pip to install the dependancies
+
+```sh
+python -m pip install -r requirements.txt
+```
+
+<h3>Usage</h3>
+
+Lorem ipsum solor sit amet
+
+<h2>Contribute and Contact</h2>
+
+<h3>Contribute</h3>
+
+Please feel free to contribute! Just fork and create pull requests for us to review! All contributions will be greatly appreciated!
+
+<h3>Contact</h3>
+
+![Discord](https://discord.gg/d9tjEUnm58)
 

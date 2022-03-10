@@ -5,7 +5,7 @@
 <h1 align="center">Autharian</h1>
 
 <p align="center">
-    A proof of stake cryptocurrency written in python!
+    A proof of work cryptocurrency written in python!
     <br />
     <a href="https://github.com/ZirCoinDevs/ZirCoin">Source Code</a>
     ·
@@ -20,7 +20,7 @@
 
 <h2>About Autharian</h2>
 
-Autharian is a cryptocurrency built using the proof of stake consensus algorithm. This allows for staking of the currency with low energy costs. Our goal is to create a cryptocurrency which uses a very low amount of energy while maintaining significant speed. We also plan to add smart contracts and NFTs.
+Autharian is a cryptocurrency built using the proof of work consensus algorithm. This allows for miners to mine the crypto. Our goal is to create a cryptocurrency that has fast speed with smart contracts and NFTs.
 
 <h2>Installation and Usage</h2>
 

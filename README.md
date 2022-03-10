@@ -56,5 +56,5 @@ Please feel free to contribute! Just fork and create pull requests for us to rev
 
 <h3>Contact</h3>
 
-![Discord](https://discord.gg/d9tjEUnm58)
+[Discord](https://discord.gg/d9tjEUnm58)
 

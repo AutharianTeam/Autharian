@@ -1,6 +1,6 @@
-# Autharian
+<h1 style="align:center">Autharian</h1>
 
-![Autharian Logo](https://i.ibb.co/XXMtgMy/autharian-logo-256.png)
-![GitHub repo size](https://img.shields.io/github/repo-size/AutharianTeam/Autharian?style=for-the-badge)
+<img src="https://i.ibb.co/XXMtgMy/autharian-logo-256.png">
+
 
 A cryptocurrency built using python with proof of spacetime

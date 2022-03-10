@@ -13,9 +13,9 @@
 </p>
 
 <ol>
-  <li align="center"><a align="center" href="#">About</a></li>
-  <li align="center"><a align="center" href="#">Installation and Usage</a></li>
-  <li align="center"><a align="center" href="#">Contribute and Contact</a></li>
+  <li align="center"><a align="center" href="#about-autharian">About</a></li>
+  <li align="center"><a align="center" href="#installation-and-usage">Installation and Usage</a></li>
+  <li align="center"><a align="center" href="#contribute-and-contact">Contribute and Contact</a></li>
 </ol>
 
 <h2>About Autharian</h2>

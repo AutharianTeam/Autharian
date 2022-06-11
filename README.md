@@ -5,7 +5,7 @@
 <h1 align="center">Autharian</h1>
 
 <p align="center">
-    A proof of work cryptocurrency written in python!
+    A proof of work cryptocurrency written in Rust!
     <br />
     <a href="https://github.com/AutharianTeam/Autharian">Source Code</a>
     ·
@@ -28,7 +28,7 @@ Here is how you can start using Autharian!
 
 <h3>Prerequisites</h3>
 
-Python 3.7+
+Rust
 
 <h3>Installing</h3>
 
@@ -36,12 +36,6 @@ Python 3.7+
 
 ```sh
 git clone https://github.com/AutharianTeam/Autharian.git
-```
-
-- Use pip to install the dependancies
-
-```sh
-python -m pip install -r requirements.txt
 ```
 
 <h3>Usage</h3>
